@@ -1,0 +1,15 @@
+{
+  "name": "lockboxpro",
+  "version": "1.0.0",
+  "description": "The LockBoxPro is an advanced software solution designed to facilitate the creation and evaluation of cryptographic algorithms.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Verkush",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^32.1.0"
+  }
+}
